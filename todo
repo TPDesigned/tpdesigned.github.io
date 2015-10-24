@@ -1,0 +1,17 @@
+<!-- TODO:
+* svg not supported in IE 8
+* firefox not animating margins properly
+* Google webmaster tools
+* Google analytics
+* Decide if logo should be transparent or not
+* Pixel-align Ps, Ai, Id icons
+* Magazine - add white bg to text for better visibility
+* Put stock card as background for logos
+* Mobile IE: navigation doesnt work
+* Mobile IE: CSS transition takes forever
+* IE 8: clicking on navbar animates to different offset. almost like animation finishes, then scrolls up
+* combine css and js into 1 package
+* add a next button to last slide to people can loop
+* Use enhanced link attribution in google webmaster tools
+
+-->
